@@ -25,33 +25,43 @@ If new tools occurred in README.md and wont be in G-Drive, there will be future 
 8. [ Tools ](#tools)
 
 <a name="ides"/>
+
 ## IDEs
+
 [ Spring Tool Suite ](https://spring.io/tools) - Eclipse (Spring support)  
 [ Visual Studio Code ](https://code.visualstudio.com/) - Universal IDE  
 
 <a name="languages"/>
+
 ## Languages
+
 [ Java ](https://www.oracle.com/technetwork/java/javase/downloads/index.html)  
 [ Python ](https://www.python.org/downloads/)
 
 <a name="plugins"/>
+
 ## Plugins
-…  
+
 
 <a name="scripts"/>
+
 ## Scripts
-…  
+
 
 <a name="servers"/>
+
 ## Servers
+
 [PostgreSQL](https://www.postgresql.org/download/)  
 [Nginx](http://nginx.org/en/download.html)  
 [Jboss](http://jbossas.jboss.org/downloads)  
 
 <a name="software"/>
+
 ## Software
+
 [Docker](https://www.docker.com/get-started)  
-[ Insomnia ](https://insomnia.rest/) - Rest client  
+[Insomnia ](https://insomnia.rest/) - Rest client  
 [ Camunda Modeler ](https://camunda.com/download/modeler/) - BPMN modeler  
 [Kafka](https://kafka.apache.org/)  
 [Putty](https://www.putty.org/) - SSH client  
@@ -59,12 +69,16 @@ If new tools occurred in README.md and wont be in G-Drive, there will be future 
 [Source tree](https://www.sourcetreeapp.com/) - Git GUI
 
 <a name="text-editors"/>
+
 ## Text editors
+
 [ Atom ](https://atom.io/)  
 [Notepad++](https://notepad-plus-plus.org/download/v7.5.9.html)
 
 <a name="tools"/>
+
 ## Tools
+
 [ Apache Maven ](https://maven.apache.org/download.cgi)  
 [ Ditto ](https://ditto-cp.sourceforge.io/) - Clipboard extension  
 [ Git bash (Windows) ](https://gitforwindows.org/)  
